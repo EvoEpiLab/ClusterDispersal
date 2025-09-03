@@ -36,11 +36,11 @@ git clone https://github.com/yourusername/ClusterDispersal.git
 ```
 
 ### 2. Open MATLAB and set the folder path
-```matlab 
+```matlab
 cd 'path_to_downloaded_folder'
 ```
 
 ### 3. Run the main script
-```matlab 
+```matlab
 simulate_data
 ```
